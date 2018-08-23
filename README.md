@@ -1,2 +1,2 @@
 # hellow-world
-try
+# I'm lazyme, a freedom boy
